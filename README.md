@@ -1,2 +1,2 @@
 # WebProject1
-Hosting QA website using non-production sub-domain created with AWS CloudFront 
+Hosting QA website using a non-production sub-domain created with AWS CloudFront 
